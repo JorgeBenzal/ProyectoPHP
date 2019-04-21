@@ -1,0 +1,10 @@
+
+input {background-color: lightgray;}
+input:focus { background-color:white;}
+li {background-color:lichtgray;}
+li:hover {background-color: snow;}
+li:active {background-color: gray;}
+a:link {text-decoration:underline; color:blue;}
+a:hover {font-weight:bold;}
+a:active {color:red;}
+
